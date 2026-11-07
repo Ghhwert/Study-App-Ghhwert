@@ -101,21 +101,26 @@ _Beschrijving_:
 2. Het systeem toont een menu met daarin de instellingen van de laatste sessie.
 3. Het systeem geeft de gebruiker opties om dingen aan te passen of de sessie te starten.
 4. De student kiest de optie om 'Sessie Starten'.
-5. De sessie start.
+5. Het systeem start de sessie.
 
 _Alternate Flows_:
 
 1. De student toets een ongeldige waarde in. Het systeem geeft een foutmelding, de usecase stopt.
-2. De student toets een ongeldige waarde in. Het systeem geeft een foutmelding, de usecase stopt.
-
-_Alternate Flows_:
-
-1. De student toets een ongeldige waarde in. Het systeem geeft een foutmelding, de usecase stopt.
+2. De student kiest een ongeldige optie. Het systeem geeft een foutmelding, de usecase stopt.
 
 # UC 3: Studiesessies opslaan
 
 _Actor_: Student
-Beschrijving:
+_Beschrijving_:
+
+1. De student pauzeerd de studiesessie.
+2. Het systeem toont het pauze menu.
+3. De student kiest de optie 'Sessie Sluiten'.
+4. Het systeem vraag de gebruiker of de sessie opgeslagen moet worden.
+5. De student kiest 'Sla op'.
+6. Het systeem geeft een bevestiging.
+
+_Alternate Flows_: 3. De student kiest een ongeldige optie. Het systeem geeft een foutmelding, de usecase stopt. 5. De student kiest een ongeldige optie. Het systeem geeft een foutmelding, de usecase stopt.
 
 # UC 4: Onderwerpen opslaan
 
