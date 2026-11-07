@@ -120,12 +120,17 @@ _Beschrijving_:
 5. De student kiest 'Sla op'.
 6. Het systeem geeft een bevestiging.
 
-_Alternate Flows_: 3. De student kiest een ongeldige optie. Het systeem geeft een foutmelding, de usecase stopt. 5. De student kiest een ongeldige optie. Het systeem geeft een foutmelding, de usecase stopt.
+_Alternate Flows_:
+
+3. De student kiest een ongeldige optie. Het systeem geeft een foutmelding, de usecase stopt.
+4. De student kiest een ongeldige optie. Het systeem geeft een foutmelding, de usecase stopt.
 
 # UC 4: Onderwerpen opslaan
 
 _Actor_: Student
 _Beschrijving_:
+
+1. In het menu 'Sessie instellen' kies de optie 'Deelonderwerpen'
 
 # UC 5: Deelonderwerpen opslaan
 
