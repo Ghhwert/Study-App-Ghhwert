@@ -127,19 +127,28 @@ _Alternate Flows_:
 3. De student kiest een ongeldige optie. Het systeem geeft een foutmelding, de usecase stopt.
 4. De student kiest een ongeldige optie. Het systeem geeft een foutmelding, de usecase stopt.
 
-### UC 4: Onderwerpen opslaan
+### UC 4: Deelonderwerp aan studiesessie toevoegen.
+
+_Actor_: Student
+_Beschrijving_:
+
+1. In het menu 'Nieuwe sessie' kies de optie 'Inhoud'.
+2. Het systeem toont het inhoud menu.
+3.
+
+### UC 5: Onderwerpen opslaan
 
 _Actor_: Student
 _Beschrijving_:
 
 1. In het menu 'Sessie instellen' kies de optie 'Deelonderwerpen'
 
-### UC 5: Deelonderwerpen opslaan
+### UC 6: Deelonderwerpen opslaan
 
 _Actor_: Student
 _Beschrijving_:
 
-### UC 6: Overzicht van studiesessies bekijken
+### UC 7: Overzicht van studiesessies bekijken
 
 _Actor_: Student
 _Beschrijving_:
@@ -150,67 +159,67 @@ _Beschrijving_:
 4. Het systeem toont een overzicht met daarin de laatste 20 studiesessies.
 5. De student kan evt. ervoor kiezen om de volgende 20 studiesessies weer te geven, Enzovoort.
 
-### UC 7: Details van een studiesessie bekijken
+### UC 8: Details van een studiesessie bekijken
 
 _Actor_: Student
 _Beschrijving_:
 
-### UC 8: Totale studietijd per onderwerp bekijken
+### UC 9: Totale studietijd per onderwerp bekijken
 
 _Actor_: Student
 _Beschrijving_:
 
-### UC 9: Totale studietijd per deelonderwerp bekijken
+### UC 10: Totale studietijd per deelonderwerp bekijken
 
 _Actor_: Student
 _Beschrijving_:
 
-### UC 10: Recent bestudeerde (deel)onderwerpen bekijken
+### UC 11: Recent bestudeerde (deel)onderwerpen bekijken
 
 _Actor_: Student
 _Beschrijving_:
 
-### UC 11: Studiesessie met timer starten
+### UC 12: Studiesessie met timer starten
 
 _Actor_: Student
 _Beschrijving_:
 
-### UC 12: Notitie toevoegen aan een deelonderwerp
+### UC 13: Notitie toevoegen aan een deelonderwerp
 
 _Actor_: Student
 _Beschrijving_:
 
-### UC 13: Notities bekijken
+### UC 14: Notities bekijken
 
 _Actor_: Student
 _Beschrijving_:
 
-### UC 14: Timer eerder stoppen en tijd opslaan
+### UC 15: Timer eerder stoppen en tijd opslaan
 
 _Actor_: Student
 _Beschrijving_:
 
-### UC 15: Suggesties voor deelonderwerpen bekijken
+### UC 16: Suggesties voor deelonderwerpen bekijken
 
 _Actor_: Student
 _Beschrijving_:
 
-### UC 16: Deelonderwerpen in willekeurige volgorde studeren
+### UC 17: Deelonderwerpen in willekeurige volgorde studeren
 
 _Actor_: Student
 _Beschrijving_:
 
-### UC 17: Playlist met deelonderwerpen opslaan
+### UC 18: Playlist met deelonderwerpen opslaan
 
 _Actor_: Student
 _Beschrijving_:
 
-### UC 18: Ringtone instellen
+### UC 19: Ringtone instellen
 
 _Actor_: Student
 _Beschrijving_:
 
-### UC 19: Achtergrondmuziek instellen
+### UC 20: Achtergrondmuziek instellen
 
 _Actor_: Student
 _Beschrijving_:
