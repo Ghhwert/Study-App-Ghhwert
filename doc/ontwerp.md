@@ -1,5 +1,11 @@
 # Scherm Ontwerpen
 
+## Start scherm
+
+        Welkom!
+
+        Gebruik het commando 'h' of 'help' om te beginnen.
+
 ## Hulp menu scherm
 
         Hulp menu
@@ -59,8 +65,8 @@
         | Deelonderwerp 1
 
         Terug(x)
-        Deelonderwerp toevoegen(1)
-        Deelonderwerp verwijderen(2)
+        Deelonderwerp toevoegen(s)
+        Deelonderwerp verwijderen(v)
 
 ### Sessie config scherm - Inhoud - Deelonderwerp toevoegen
 
@@ -108,21 +114,21 @@
 
         Round 1 - Deelonderwerp 1 - 22:59
 
-        Hervat studiesessie (1)
-        Herstart deelonderwerp (2)
-        Sluit studiesessie (3)
+        Sluit studiesessie (x)
+        Hervat studiesessie (s)
+        Herstart deelonderwerp (v)
 
 ### Sluit studiesessie scherm
 
         Weet je zeker dat de sessie wilt sluiten?
 
-        Sluit(1) / Annuleren(2)
+        Sluit(s) / Annuleren(x)
 
 ### Opslaan studiesessie scherm
 
         Wil je de sessie opslaan?
 
-        Sla op(1) / Annuleren(2)
+        Sla op(s) / Annuleren(x)
 
 ## Geschiedenis
 
@@ -178,7 +184,7 @@
 
         Terug(x)
         Sessie informatie wijzigen(s)
-        Naar configuratie scherm(r)
+        Naar configuratie scherm(v)
 
 ### Studiesessie informatie scherm - informatie wijzigen.
 
@@ -247,4 +253,4 @@
 
         Terug(x)
         Als preset gebruiken(s)
-        Naar informatie scherm(r)
+        Naar informatie scherm(v)

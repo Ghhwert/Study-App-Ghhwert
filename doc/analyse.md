@@ -97,7 +97,7 @@ _Alternate Flows_:
 _Actor_: Student
 _Beschrijving_:
 
-1. De student toetst 'new', 'nieuw' of 'nieuwe sessie'.
+1. De student toetst 'new', 'nieuw' in.
 2. Het systeem toont het nieuwe sessie menu met daarin de instellingen van de laatste sessie.
 3. Het systeem geeft de gebruiker opties om dingen aan te passen of de sessie te starten.
 4. De student kiest de optie 'Sessie Starten'.
@@ -113,11 +113,11 @@ _Alternate Flows_:
 _Actor_: Student
 _Beschrijving_:
 
-1. De student pauzeerd de studiesessie.
+1. De student pauzeerd de studiesessie met de spatie balk.
 2. Het systeem toont het pauze menu.
-3. De student kiest de optie 'Sessie Sluiten'.
+3. De student kiest de optie 'Sluit Studiesessie'.
 4. Het systeem vraag de gebruiker of die het zeker weet dat die wilt aflsuiten.
-5. De student kiest 'Ja'.
+5. De student kiest 'Sluit'.
 6. Het systeem vraag de gebruiker of de sessie opgeslagen moet worden.
 7. De student kiest 'Sla op'.
 8. Het systeem geeft een bevestiging.
